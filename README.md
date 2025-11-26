@@ -16,8 +16,8 @@ This is a Four Card Feature Section that you can use on your websites.
 
 ## Links
 
-- Solution URL: [Four Card Feature Section Solution](https://github.com/altindaselif/blog-preview-card-main)
-- Live Site URL: [Four Card Feature Section Live](https://altindaselif.github.io/blog-preview-card-main/)
+- Solution URL: [Four Card Feature Section Solution](https://github.com/altindaselif/four-card-feature-section-master)
+- Live Site URL: [Four Card Feature Section Live](https://altindaselif.github.io/four-card-feature-section-master/)
 
 ## Built with
 
